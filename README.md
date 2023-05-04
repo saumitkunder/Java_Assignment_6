@@ -1,1 +1,2 @@
-# Java_Assignment
+# Java_Assignment 6 
+Duck Behaviour
